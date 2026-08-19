@@ -20,8 +20,6 @@ Three charts: Reno vs. statewide valuation growth (indexed to 2013 = 100), the s
 
 A bar chart comparing estimated property tax bills across Kansas (Wichita), Missouri (Kansas City), Nebraska (Omaha), Oklahoma (Oklahoma City), and Colorado (Denver), 2023–2025, alongside a scatter plot of tax rate vs. median home value for 2025 — showing that Wichita's low tax bill comes from a genuinely low home value paired with a moderate rate, while Colorado's low rate is offset by a much higher home value.
 
-*(Replace the two image links above with your actual screenshot files — export each Power BI page as an image and save them to a `screenshots/` folder in the repo.)*
-
 ---
 
 ## Key findings
